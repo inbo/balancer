@@ -1,0 +1,19 @@
+Package: balancer
+Title: Metrics for Spatial Balance and Deviance of Samples from Spatial Sampling Designs
+Version: 0.0.0
+Authors@R: c(
+    person("Hans", "Van Calster", , "hans.vancalster@inbo.be", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-8595-8426", affiliation = "Research Institute for Nature and Forest (INBO)")),
+    person("Research Institute for Nature and Forest (INBO)", , , "info@inbo.be", role = c("cph", "fnd", "pbl"),
+           comment = c(ROR = "00j54wy13"))
+  )
+Description: Helper functions to aid evaluation of the quality of probabilistic samples from spatial sampling designs
+License: MIT + file LICENSE
+URL: https://github.com/inbo/balancer
+BugReports: https://github.com/inbo/balancer/issues
+Encoding: UTF-8
+Config/citeme/communities: inbo
+Config/citeme/keywords: Voronoi; well-spread; sampling; Wasserstein
+Language: en-GB
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0
